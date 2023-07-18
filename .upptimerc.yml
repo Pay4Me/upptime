@@ -18,7 +18,7 @@ status-website:
   name: Pay4Me
   logoUrl: https://play-lh.googleusercontent.com/_CLu2sfI6RkyNRanybQSjlxjlUj9jJxiR3lJ1Xi_T8-VS6xn1jy2sGd3p_kfpkNuQHk=s96-rw
   favicon: https://play-lh.googleusercontent.com/_CLu2sfI6RkyNRanybQSjlxjlUj9jJxiR3lJ1Xi_T8-VS6xn1jy2sGd3p_kfpkNuQHk=s96-rw
-  theme: light
+  theme: dark
   navbar:
     - title: Status
       href: /
