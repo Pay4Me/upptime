@@ -18,6 +18,7 @@ status-website:
   cname: status.pay4me.app
   logoUrl: https://play-lh.googleusercontent.com/_CLu2sfI6RkyNRanybQSjlxjlUj9jJxiR3lJ1Xi_T8-VS6xn1jy2sGd3p_kfpkNuQHk=s96-rw
   name: Pay4Me
+  favicon: https://play-lh.googleusercontent.com/_CLu2sfI6RkyNRanybQSjlxjlUj9jJxiR3lJ1Xi_T8-VS6xn1jy2sGd3p_kfpkNuQHk=s96-rw
   navbar:
     - title: Status
       href: /
