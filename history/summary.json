@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pay4me.app.ico",
     "slug": "pay4-me-app-website",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 507,
-    "timeDay": 585,
-    "timeWeek": 472,
-    "timeMonth": 514,
-    "timeYear": 507,
+    "uptimeYear": "99.85%",
+    "time": 505,
+    "timeDay": 422,
+    "timeWeek": 454,
+    "timeMonth": 518,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2023-08-15": 72
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 705,
-    "timeWeek": 627,
-    "timeMonth": 564,
-    "timeYear": 565,
+    "time": 562,
+    "timeDay": 470,
+    "timeWeek": 603,
+    "timeMonth": 569,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 1158,
-    "timeWeek": 1146,
-    "timeMonth": 1170,
-    "timeYear": 1157,
+    "time": 1158,
+    "timeDay": 1196,
+    "timeWeek": 1155,
+    "timeMonth": 1169,
+    "timeYear": 1158,
     "dailyMinutesDown": {}
   }
 ]
