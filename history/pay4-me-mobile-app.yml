@@ -1,7 +1,7 @@
 url: https://api.pay4me.app
-status: down
-code: 503
-responseTime: 288
-lastUpdated: 2023-12-11T01:10:06.072Z
+status: up
+code: 200
+responseTime: 606
+lastUpdated: 2023-12-11T04:40:31.761Z
 startTime: 2023-07-18T15:07:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
