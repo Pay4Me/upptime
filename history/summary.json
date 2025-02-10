@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 526,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "time": 601,
+    "timeDay": 601,
+    "timeWeek": 601,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 563,
-    "timeWeek": 563,
-    "timeMonth": 563,
-    "timeYear": 563,
+    "time": 572,
+    "timeDay": 572,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 572,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 467,
-    "timeWeek": 467,
-    "timeMonth": 467,
-    "timeYear": 467,
+    "time": 473,
+    "timeDay": 473,
+    "timeWeek": 473,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Queue",
-    "url": "104.248.226.64",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "queue",
-    "status": "down",
-    "uptime": "0.83%",
-    "uptimeDay": "0.83%",
-    "uptimeWeek": "0.83%",
-    "uptimeMonth": "0.83%",
-    "uptimeYear": "0.83%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-02-10": 0
-    }
   }
 ]
