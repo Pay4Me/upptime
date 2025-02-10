@@ -8,9 +8,11 @@ sites:
     url: https://api.pay4me.app
   - name: Console 
     url: https://console.pay4me.app
-  - name: Queue 
-    check: "tcp-ping"
-    url: 104.248.226.64
+  # - name: Queue 
+  #   check: "tcp-ping"
+  #   url: 104.248.226.64
+  #   port: 80
+    
 
 status-website:
   cname: status.pay4me.app
