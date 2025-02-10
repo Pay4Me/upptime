@@ -2,12 +2,12 @@ owner: pay4me
 repo: upptime 
 
 sites:
-  - name: Pay4Me App Website
+  - name: Website
     url: https://pay4me.app
-  - name: Pay4Me Mobile App 
+  - name: Mobile App 
     url: https://api.pay4me.app
-  - name: Pay4Me Pay
-    url: https://pay.pay4me.app
+  - name: Console 
+    url: https://console.pay4me.app
 
 status-website:
   cname: status.pay4me.app
