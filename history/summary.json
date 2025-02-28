@@ -4,53 +4,59 @@
     "url": "https://pay4me.app",
     "icon": "https://icons.duckduckgo.com/ip3/pay4me.app.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 313,
-    "timeWeek": 613,
-    "timeMonth": 565,
-    "timeYear": 565,
-    "dailyMinutesDown": {}
+    "time": 550,
+    "timeDay": 279,
+    "timeWeek": 567,
+    "timeMonth": 550,
+    "timeYear": 550,
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "Mobile App",
     "url": "https://api.pay4me.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.pay4me.app.ico",
     "slug": "mobile-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 691,
-    "timeWeek": 740,
-    "timeMonth": 667,
-    "timeYear": 667,
-    "dailyMinutesDown": {}
+    "time": 642,
+    "timeDay": 422,
+    "timeWeek": 667,
+    "timeMonth": 642,
+    "timeYear": 642,
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "Console",
     "url": "https://console.pay4me.app",
     "icon": "https://icons.duckduckgo.com/ip3/console.pay4me.app.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 496,
-    "timeWeek": 558,
-    "timeMonth": 524,
-    "timeYear": 524,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 325,
+    "timeWeek": 508,
+    "timeMonth": 507,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   }
 ]
