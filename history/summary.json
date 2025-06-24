@@ -4,10 +4,10 @@
     "url": "https://pay4me.app",
     "icon": "https://icons.duckduckgo.com/ip3/pay4me.app.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "97.81%",
     "time": 657,
@@ -16,6 +16,7 @@
     "timeMonth": 733,
     "timeYear": 657,
     "dailyMinutesDown": {
+      "2025-06-24": 2,
       "2025-05-28": 73,
       "2025-05-05": 25,
       "2025-04-21": 21,
@@ -31,7 +32,7 @@
     "url": "https://api.pay4me.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.pay4me.app.ico",
     "slug": "mobile-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -43,6 +44,7 @@
     "timeMonth": 820,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2025-06-24": 0,
       "2025-05-28": 71,
       "2025-04-21": 19,
       "2025-02-28": 197
